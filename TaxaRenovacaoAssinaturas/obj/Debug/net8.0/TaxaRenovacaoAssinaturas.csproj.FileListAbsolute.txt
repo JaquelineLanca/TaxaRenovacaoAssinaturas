@@ -1,0 +1,15 @@
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\bin\Debug\net8.0\TaxaRenovacaoAssinaturas.exe
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\bin\Debug\net8.0\TaxaRenovacaoAssinaturas.deps.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\bin\Debug\net8.0\TaxaRenovacaoAssinaturas.runtimeconfig.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\bin\Debug\net8.0\TaxaRenovacaoAssinaturas.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\bin\Debug\net8.0\TaxaRenovacaoAssinaturas.pdb
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.AssemblyInfoInputs.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.AssemblyInfo.cs
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.sourcelink.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\refint\TaxaRenovacaoAssinaturas.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.pdb
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\TaxaRenovacaoAssinaturas.genruntimeconfig.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\TaxaRenovacaoAssinaturas\obj\Debug\net8.0\ref\TaxaRenovacaoAssinaturas.dll

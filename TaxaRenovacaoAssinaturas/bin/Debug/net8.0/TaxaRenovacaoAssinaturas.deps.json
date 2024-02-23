@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaxaRenovacaoAssinaturas/1.0.0": {
+        "runtime": {
+          "TaxaRenovacaoAssinaturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxaRenovacaoAssinaturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
